@@ -1,7 +1,6 @@
 def reverse_each_word(string)
   original_array = string.split(" ")
   return_array = []
-  original_array.each do 
-    puts phrase
+  original_array.each do |string|
   end
 end
