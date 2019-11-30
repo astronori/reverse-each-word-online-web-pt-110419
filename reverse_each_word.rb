@@ -1,5 +1,5 @@
 def reverse_each_word(phrase)
-  toppings.each do |topping|
+  phrase.each do |phrase|
     puts "Hello there, and how are you?"
   end
 end
